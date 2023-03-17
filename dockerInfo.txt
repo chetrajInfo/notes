@@ -1,2 +1,31 @@
 Docker Tutorial for Beginner to Advance| full course(2023) by The Dev Project
 
+What is Docker?
+A platform for building running and shipping applications.
+
+
+Virtual Machine vs Contianer
+Container: An isolated enviroment for running an application.
+
+Virtual Machine: An abstraction of a machine (Physical hardware)
+
+
+Hypervisor is software we used to create and mangage virtual machine. few example is Virtual Box, VMWare and Hyper-v(only for window).
+
+Container:
+Allow running multiple apps in isolation 
+Are lightweight
+Use os of the host
+start quickly
+need less hardware resources
+
+
+Docker Architecture:
+it use client server architecture.
+
+Linux only run linux kernel contianer but Windows after window 10 shift to both windown kernel and linux kernle that means we can run 
+linux application in window as well. 
+
+Installing Docker:
+goto page " docs.docker.com/get-docker/ "
+
